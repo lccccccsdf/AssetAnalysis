@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Visual Asset Insight Pro",
+  "description": "A professional image analysis tool for quantifying color distribution, line sharpness, decoration complexity, and style uniqueness compared to global datasets. Generates a comprehensive 'Exposed Asset Visual Analysis Report'.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
